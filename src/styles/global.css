@@ -76,7 +76,7 @@ h5 {
   background-color: var(--main-color);
   color: var(--main-bg-color);
   width: 20rem;
-  height: 12rem;
+  height: 14rem;
   border-radius: 0.25rem;
   padding: 1rem;
   display: grid;
@@ -115,7 +115,7 @@ h5 {
 
 .card > a {
   display: grid;
-  grid-template-rows: 1fr 1fr 3fr;
+  grid-template-rows: 2fr 1fr 3fr;
   min-height: 9rem;
 }
 
